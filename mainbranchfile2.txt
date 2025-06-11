@@ -1,0 +1,2 @@
+if add any new file into subbranch it will not reflected into source branch.
+we can commit changes.
